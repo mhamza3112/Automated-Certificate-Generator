@@ -154,11 +154,11 @@ LinkedIn Profile:
 https://www.linkedin.com/in/m-hamza-se
 
 LinkedIn Post:  
-......................................
+https://www.linkedin.com/posts/m-hamza-se_node-pdf-intern-ugcPost-7452426828159459328-Mxe8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFC1dRwBJw9Hjdk96lKLzScF6CQdWMYwQpo
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ✔ Fully automated certificate system  
 ✔ Real-time PDF generation  
