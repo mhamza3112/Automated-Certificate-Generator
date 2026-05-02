@@ -9,6 +9,7 @@ A full-stack Node.js based automation system that generates internship completio
 The Automated Certificate Generator is a real-world backend automation project designed to eliminate manual certificate creation and distribution.
 
 Users enter their details through a simple web interface, and the system:
+
 ✔ Generates a professional PDF certificate  
 ✔ Stores it locally on the server  
 ✔ Sends it automatically via email  
@@ -27,7 +28,7 @@ This project demonstrates full-stack integration using Node.js, PDF generation, 
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Backend:
 - Node.js
@@ -105,7 +106,7 @@ After PDF creation:
 
 ---
 
-## 🌐 Server Details
+## Server Details
 
 - Local Server: http://localhost:3000  
 - Backend: Express.js  
@@ -113,7 +114,7 @@ After PDF creation:
 
 ---
 
-## 📧 Email Configuration
+## Email Configuration
 
 To enable email functionality:
 
@@ -204,12 +205,12 @@ Cloud Computing Trainee
 If you have any feedback, collaboration ideas, or opportunities, feel free to connect with me:
 
 Email: mhamza74472@gmail.com  
-LinkedIn: https://www.linkedin.com/in/m-hamza-se
+LinkedIn: https://www.linkedin.com/in/mhamza-se
 
 💡 Always open to learning, collaboration, and real-world development opportunities.
 
 ---
 
-## 📌 Note
+## Note
 
 This project is built for internship submission and demonstrates real-world automation using backend technologies.
